@@ -16,18 +16,6 @@ Menber of DotLAB Brazil
   
 ---
   
-  ## 📱 Contact/ Social Media
-
-  <div> 
-    <a href="https://instagram.com/thomastabosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:thomastabosa10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/thomás-tabosa-837b93168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "https://www.kaggle.com/thomstabosa"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-    <a href="https://www.researchgate.net/profile/Thomas-Oliveira-2" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"target="_blank"></a>
-
-
-  </div>
-  
   ## 👩‍💻 Skills
   
   <div>
@@ -40,7 +28,7 @@ Menber of DotLAB Brazil
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" target="_blank">
   </div>
   
-  ## 🚀 Frameworks/Dev tools
+  ## 🚀 Frameworks/Dev tools 💻
   <div>
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" target="_blank">
@@ -48,9 +36,18 @@ Menber of DotLAB Brazil
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank">
     <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" target="_blank">
   </div>
+  
+  ## 📱 Contact/Social Media 🌐
 
-  
-  
+  <div> 
+    <a href="https://instagram.com/thomastabosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:thomastabosa10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/thomás-tabosa-837b93168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "https://www.kaggle.com/thomstabosa"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+    <a href="https://www.researchgate.net/profile/Thomas-Oliveira-2" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"target="_blank"></a>
+
+
+  </div>
 
  
 <!--
