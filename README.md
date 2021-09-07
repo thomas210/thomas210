@@ -54,7 +54,7 @@ Menber of DotLAB Brazil
 - **2019 - 2020 -> COMEIA Labs** <br> PHP Programmer <br> Development of web systems using the yii2 framework
 
 # 📚 Academic education 📖
-- **2016 - 2019 -> University of Pernamuco** <br> Bachelor in Information Systems
+- **2016 - 2019 -> University of Pernambuco** <br> Bachelor in Information Systems
 - **2020 - currently -> University of Pernambuco** <br> Master in Computer Engineering <br> Usase of Machine Learning model for multi-class classification
 
 
