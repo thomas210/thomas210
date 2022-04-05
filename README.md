@@ -1,6 +1,6 @@
 ### Hi there 👋
-My names is Thomás Tabosa, I am a Master's student in the Graduate Program in Computer Engineering (PPGEC) at the University of Pernambuco (UPE)
-Menber of DotLAB Brazil 
+My names is Thomás Tabosa, I am a Data Scientist.
+Member of DotLAB Brazil 
 
 - 🔭 I’m currently working on Machine Learning models for classification
 
@@ -50,12 +50,13 @@ Menber of DotLAB Brazil
 </div>
 
 # 💻 Experience 👔
+- **2022 - currently -> Mekatronik** <br> Data Scientist <br> Educational Data Mining <br> Development of predictive models for school dropout <br> 
 - **2020 - currently -> DotLAB Brazil** <br> Researcher <br> Development of machine learning models for classification of arboviruses
 - **2019 - 2020 -> COMEIA Labs** <br> PHP Programmer <br> Development of web systems using the yii2 framework
 
 # 📚 Academic education 📖
 - **2016 - 2019 -> University of Pernambuco** <br> Bachelor in Information Systems
-- **2020 - currently -> University of Pernambuco** <br> Master in Computer Engineering <br> Usase of Machine Learning model for multi-class classification
+- **2020 - 2022 -> University of Pernambuco** <br> Master in Computer Engineering <br> Usase of Machine Learning model for multi-class classification of arbovirus using only clinical data
 
 
   
