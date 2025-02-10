@@ -50,8 +50,10 @@ Member of DotLAB Brazil
 </div>
 
 # 💻 Experience 👔
-- **2022 - currently -> Mekatronik** <br> Data Scientist <br> Educational Data Mining <br> Development of predictive models for school dropout <br> 
-- **2020 - currently -> DotLAB Brazil** <br> Researcher <br> Development of machine learning models for classification of arboviruses
+- **2023 - currently -> 42 Data Labs** <br> Data Analyst <br> QlikSense dashboard development <br> Data engineering <br>
+- **2023 - currently -> Nova Roma College** <br> University Professor <br>
+- **2022 - 2023 -> Mekatronik** <br> Data Scientist <br> Educational Data Mining <br> Development of predictive models for school dropout <br> 
+- **2020 - 2023 -> DotLAB Brazil** <br> Researcher <br> Development of machine learning models for classification of arboviruses
 - **2019 - 2020 -> COMEIA Labs** <br> PHP Programmer <br> Development of web systems using the yii2 framework
 
 # 📚 Academic education 📖
