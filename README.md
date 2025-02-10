@@ -1,9 +1,3 @@
-### Hi there 👋
-My names is Thomás Tabosa, I am a Data Scientist.
-Member of DotLAB Brazil 
-
-- 🔭 I’m currently working on Machine Learning models for classification
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomas210&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas210&layout=compact&langs_count=7&theme=dark"/>
